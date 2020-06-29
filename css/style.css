@@ -1,0 +1,22 @@
+#navbarNav {
+    display: flex;
+    justify-content: space-around;
+}
+
+#slide {
+    margin-top: 70px;
+    margin-right: 140px;
+    margin-left: 140px;
+    margin-bottom: 60px;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+
+.h2 {
+    text-align: center;
+    display: flex;
+}
